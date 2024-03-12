@@ -51,11 +51,11 @@ To run the Jupyter Notebook included in this repository, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nexlanglxm/programming-for-data-analysis.git
+git clone https://github.com/nexlanglxm/data-modelling.git
 ```
 
 ```bash
-cd project1
+cd project.ipynb
 ```
 
 ### Install Required Dependencies
